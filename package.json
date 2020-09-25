@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mAlfosea/mobile-app/issues"
   },
-  "homepage": "https://github.com/mAlfosea/mobile-app#readme"
+  "homepage": "https://github.com/mAlfosea/mobile-app#readme",
+  "dependencies": {
+    "react-native": "^0.63.2"
+  }
 }
