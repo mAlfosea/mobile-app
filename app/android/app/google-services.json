@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "363306076340",
+    "firebase_url": "https://malfosea-cesi.firebaseio.com",
+    "project_id": "malfosea-cesi",
+    "storage_bucket": "malfosea-cesi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363306076340:android:d05a64ba9318627173efe1",
+        "android_client_info": {
+          "package_name": "com.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363306076340-8hgum9sn6rqbb06n29eiia2cck26o3vh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1RxLdu4AeqotMENi0ujoomeOsHjhRSRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363306076340-8hgum9sn6rqbb06n29eiia2cck26o3vh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363306076340:android:3ed51d6be5834e6273efe1",
+        "android_client_info": {
+          "package_name": "malfosea_cesi.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363306076340-8hgum9sn6rqbb06n29eiia2cck26o3vh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1RxLdu4AeqotMENi0ujoomeOsHjhRSRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363306076340-8hgum9sn6rqbb06n29eiia2cck26o3vh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
